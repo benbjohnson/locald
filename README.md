@@ -38,4 +38,4 @@ By default it'll use port 9000.
 
 Unless you can think of a way to make this server any simpler then you probably shouldn't bother submitting a pull request.
 It's meant to be simple.
-If you need more features then fork the code or use Apache.
+If you need more features then fork the code or use ~~Apache~~ Nginx.
